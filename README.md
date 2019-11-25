@@ -2,9 +2,7 @@
 
 [胡成武](https://github.com/Colinhuu)（著）&copy; 2019
 
-记录我生活学习的点点滴滴
-
-if you think you can,you can
+**志之难也不在胜人，而在自胜。** 记录自己成长的点点滴滴，坚持每天进步一点点。
 
 -----
 
