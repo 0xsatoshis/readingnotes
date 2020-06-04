@@ -20,31 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1096b0b-cdcf-4e28-87a6-45218c8a6678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1330.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2230.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2240.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2250.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2260.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2270.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2280.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2285.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2290.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2295.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2300.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2310.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2320.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2330.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2340.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2350.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2360.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2370.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2460.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2470.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2480.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2490.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2500.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2510.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F1130.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2380.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2390.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2400.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2410.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2420.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2430.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2440.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/books/shuiku/欧神文集.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/欧神文集.md" afterDir="false" />
     </list>
@@ -105,7 +87,7 @@
       <workItem from="1575253103307" duration="787000" />
       <workItem from="1575338442736" duration="78000" />
       <workItem from="1590734841347" duration="3827000" />
-      <workItem from="1590976013320" duration="21308000" />
+      <workItem from="1590976013320" duration="21964000" />
     </task>
     <servers />
   </component>
