@@ -20,24 +20,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1096b0b-cdcf-4e28-87a6-45218c8a6678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1290.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1300.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1310.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1320.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1440.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1450.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1660.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1760.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1860.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2520.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2530.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2540.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/292.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/580.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/590.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/600.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/610.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/620.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1040.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1050.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1060.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1070.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1080.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1090.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1100.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1110.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1120.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1280.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1510.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1520.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1580.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1820.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1830.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1840.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2550.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/2560.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/430.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/440.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/450.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/660.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/670.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/680.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/690.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/700.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/710.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/720.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/730.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/740.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/750.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/760.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/770.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/775.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/780.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/790.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/800.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/810.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/820.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/830.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/840.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/850.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/860.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/870.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/880.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/900.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/910.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/920.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/930.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/940.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/950.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/960.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F1210.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F1290.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F350.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/books/shuiku/欧神文集.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/欧神文集.md" afterDir="false" />
     </list>
@@ -59,7 +96,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/books/shuiku/pages" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -75,6 +112,7 @@
       <recent name="$PROJECT_DIR$/books/imgs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/books/shuiku/pages" />
       <recent name="$PROJECT_DIR$/imgs" />
     </key>
   </component>
@@ -97,7 +135,7 @@
       <workItem from="1575253103307" duration="787000" />
       <workItem from="1575338442736" duration="78000" />
       <workItem from="1590734841347" duration="3827000" />
-      <workItem from="1590976013320" duration="13726000" />
+      <workItem from="1590976013320" duration="17266000" />
     </task>
     <servers />
   </component>
