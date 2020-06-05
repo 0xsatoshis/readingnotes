@@ -20,16 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1096b0b-cdcf-4e28-87a6-45218c8a6678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN15.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN17.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN18.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN19.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/books/shuiku/欧神文集.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/欧神文集.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +84,7 @@
       <workItem from="1575253103307" duration="787000" />
       <workItem from="1575338442736" duration="78000" />
       <workItem from="1590734841347" duration="3827000" />
-      <workItem from="1590976013320" duration="29117000" />
+      <workItem from="1590976013320" duration="29439000" />
     </task>
     <servers />
   </component>
