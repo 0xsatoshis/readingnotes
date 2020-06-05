@@ -20,20 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1096b0b-cdcf-4e28-87a6-45218c8a6678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1125.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1126.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1135.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1220.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1260.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1340.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1410.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1420.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1590.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1810.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F1840.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F720.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F730.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1430.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1530.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1540.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/1550.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F1330.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F1810.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/F2060.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/shuiku/pages/NN5.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/shuiku/欧神文集.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/欧神文集.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +88,7 @@
       <workItem from="1575253103307" duration="787000" />
       <workItem from="1575338442736" duration="78000" />
       <workItem from="1590734841347" duration="3827000" />
-      <workItem from="1590976013320" duration="27473000" />
+      <workItem from="1590976013320" duration="28123000" />
     </task>
     <servers />
   </component>
@@ -112,10 +108,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="764" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591262289623">
+    <state x="764" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591344543572">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state x="764" y="262" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.820@0.23.1440.820" timestamp="1591262289623" />
+    <state x="764" y="262" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.820@0.23.1440.820" timestamp="1591344543572" />
     <state x="766" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591001926856">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
