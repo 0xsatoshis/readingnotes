@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1096b0b-cdcf-4e28-87a6-45218c8a6678" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/shuiku/pages/1190.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/pages/1190.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/shuiku/pages/1250.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/pages/1250.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/shuiku/pages/NN2.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/pages/1230.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/shuiku/pages/NN3.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/pages/1240.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/shuiku/欧神文集.md" beforeDir="false" afterPath="$PROJECT_DIR$/books/shuiku/欧神文集.md" afterDir="false" />
-    </list>
+    <list default="true" id="c1096b0b-cdcf-4e28-87a6-45218c8a6678" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +77,7 @@
       <workItem from="1575253103307" duration="787000" />
       <workItem from="1575338442736" duration="78000" />
       <workItem from="1590734841347" duration="3827000" />
-      <workItem from="1590976013320" duration="25795000" />
+      <workItem from="1590976013320" duration="26000000" />
     </task>
     <servers />
   </component>
