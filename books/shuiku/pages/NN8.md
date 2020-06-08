@@ -431,4 +431,4 @@
 <div class="rich_media_tool" id="js_toobar3" style="margin: 0px; padding: 15px 0px 0px; overflow: hidden; line-height: 32px; font-size: 15px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px;">
 	<a href="http://www.shuikult.net/" target="_blank"><u>水库</u></a>微信大群，目前是从1群到73群。 一群又称元老院。主要是论坛元老在里面。目前可有名额的可免费加入的只有73群。大群免费，原则上每个人只能加一个大群。已经在水库各大群的，请不要再次加群，以节省群资源。需要入群的库友请请直接添加徽信：689574&nbsp;&nbsp;&nbsp;验证语：入群</div>
 
-          </section>
+</section>

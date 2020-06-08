@@ -99,6 +99,6 @@
 <font face="微软雅黑, sans-serif" style="word-wrap: break-word; color: rgb(68, 68, 68); font-size: 14px;"><font style="word-wrap: break-word; font-size: 15px;">从这一个角度讲，我支持中央政府对汶川征收“地震特别税”，税率为每人收入的5%，年期20年。</font></font><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: &quot;Microsoft YaHei&quot;, YaHei, SimHei, Hei; font-size: 14px;">
 <br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: &quot;Microsoft YaHei&quot;, YaHei, SimHei, Hei; font-size: 14px;">
 <font face="微软雅黑, sans-serif" style="word-wrap: break-word; color: rgb(68, 68, 68); font-size: 14px;"><font style="word-wrap: break-word; font-size: 15px;">（<a href="mailto:yevon_ou@yahoo.com" style="word-wrap: break-word; color: rgb(61, 163, 191);" target="_blank">yevon_ou@yahoo.com</a>，2008年5月16日晚）</font></font>
-          </section>
+</section>
 				
 </div>
