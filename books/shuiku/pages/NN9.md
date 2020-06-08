@@ -144,15 +144,15 @@
 			<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">小国才能保证反对派的生存。才能容忍和促进创新。才有可能迸发工业革命。</span></p>
 		<ul class="list-paddingleft-2" style="margin: 0px; padding-right: 0px; padding-left: 2.2em; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
 			<li style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
-				<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
 					<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">小国竞争为其底层秩序</span></p>
 			</li>
 			<li style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
-				<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
 					<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">“</span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">平等，自由，博爱”为覆盖其上的宗教意识</span></p>
 			</li>
 			<li style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
-				<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
 					<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">行业协会，司法独立，区域自治，公民社会，为其更浅一层的表相显露。</span></p>
 			</li>
 		</ul>
@@ -378,19 +378,19 @@
 			&nbsp;</p>
 		<ul class="list-paddingleft-2" style="margin: 0px; padding-right: 0px; padding-left: 2.2em; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
 			<li style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
-				<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
 					<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">雅典人是战斗民族，波斯人不是。</span></p>
 			</li>
 			<li style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
-				<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
 					<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">以色列人是战斗民族，阿拉伯人不是。</span></p>
 			</li>
 			<li style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
-				<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
 					<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">战士首先必须是公民，自由之人才有意志和道义勇气。</span></p>
 			</li>
 			<li style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
-				<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; line-height: 25.5px;">
 					<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px; line-height: 24px; font-family: 楷体;">战斗民族都在维也纳以西，所以你毛自古以来不属于战斗民族。</span></p>
 			</li>
 		</ul>
