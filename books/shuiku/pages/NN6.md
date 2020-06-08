@@ -1,6 +1,6 @@
 <section>
 				<h1 style="margin: 0px; padding: 0px; font-weight: 400; font-size: 16px; max-width: 100%; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px; text-align: justify; line-height: 24px; box-sizing: border-box !important; word-wrap: break-word !important;">
-	<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-family: 宋体; color: rgb(84, 141, 212);"><img alt="" src="/uploads/allimg/181019/1-1Q019143253225.jpg" style="width: 100%; height: 332px;"><br>
+	<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-family: 宋体; color: rgb(84, 141, 212);"><img alt="" src="http://www.shuikult.net/uploads/allimg/181019/1-1Q019143253225.jpg" style="width: 100%; height: 332px;"><br>
 	论儒·法·禅宗·基督自治及道教的复兴</span></h1>
 <p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; box-sizing: border-box !important; word-wrap: break-word !important;">
 	&nbsp;</p>
